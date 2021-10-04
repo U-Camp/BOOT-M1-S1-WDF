@@ -1,15 +1,15 @@
 ![Banner](imagenes/banner.png)
 
-# M1S2: Fundamentos de Programación y Algoritmia
+# M1S2: Conceptos Generales de Programación.
 
->#### Hola te doy la bienvenida, es un gusto tenerte aquí; en esta sesión, comenzaremos sobre los fundamentos sobre desarrollo de Software, lenguajes de programación y algoritmia básica.
+>#### Hola te doy la bienvenida, es un gusto tenerte aquí; en esta sesión, estaremos hablando sobre lenguajes de programación y algoritmia básica, todo esto con el fin de contextualizar un poco lo relacionado al mundo del Desarrollo Web.
 
 # ÍNDICE
 
 - [Conceptos Generales del Desarrollo de Software](https://github.com/U-Camp/BOOT-M0/blob/main/README.md#conceptos-generales-del-desarrollo-de-software)
     - [Lenguajes de Programación](https://github.com/U-Camp/BOOT-M0/blob/main/README.md#lenguajes-de-programaci%C3%B3n)
     - [Paradigmas de Programación](https://github.com/U-Camp/BOOT-M0/blob/main/README.md#paradigmas-de-programaci%C3%B3n)
-    - [Full Stack Development](https://github.com/U-Camp/BOOT-M0/blob/main/README.md#full-stack-development)
+
 - [Breve Historia de la World Wide Web](https://github.com/U-Camp/BOOT-M0/blob/main/README.md#breve-historia-de-la-world-wide-web)
 
 # Conceptos Generales del Desarrollo de Software
@@ -238,49 +238,6 @@ Este concepto de programación es el más usado actualmente para desarrollar cua
 
 - **Comportamiento**: Son los métodos o acciones que puede realizar un objeto determinado y dependen del tipo, por ejemplo, el gato no habla, pero puede maullar, si en lugar de un gato el objeto fuera un ave quizá podría volar.
 
-# Full Stack Development
-
-El desarrollo de soluciones web tiene dos componentes principales: el frontend y el backend, cada uno de los cuales está a cargo de realizar distintos procesos en la información que fluye a través de ellos; el ***frontend***  es el encargado de renderizar todos los datos y la información ya procesada por el sistema y permite capturar los datos que introduzca el usuario o le permite interactuar con la interfaz de usuario (UI) proveyendo una experiencia de usuario (UX) intuitiva y fácil de usar, todo esto por medio de un explorador web, pero debido a que el explorador web no tiene acceso al sistema de archivos del sistema operativo en el que se está ejecutando no puede acceder directamente a bases de datos, se hace necesario el uso de un ***backend***, desde donde el sistema pueda generar nuevos archivos de información (por ejemplo un PDF o un Excel que el usuario quiera descargar) o comunicarse con una base de datos para procesar la información que se genera.
-
-Un programador es la persona que puede configurar y desarrollar sistemas interactivos tanto en front como en back, sabe integrar ambos elementos conociendo como se comunican entre sí por medio de una API REST, así como guardar y acceder a información correctamente estructurada en una base de datos, y a este se le llama ***Desarrollador Full Stack***.
-
-La arquitectura de una aplicación web está dada principalmente por el modelo cliente-servidor, en el cual un cliente (explorador web por medio del frontend) realiza peticiones de recursos a un servidor (backend) por medio de una API (API REST que es un protocolo de comunicación que ambas partes entienden) la cual devuelve un resultado que es presentado al usuario final.
-
-El término ***Full Stack*** es aplicado a un conjunto de tecnologías específicas (stack). Durante este curso se aplicará el siguiente stack de tecnologías:
-
-
-
-# El concepto de Fullstack
-
-El término Full Stack es aplicado a utilizar un conjunto de tecnologías específicas (stack). 
-
-Existen dos áreas separadas:
-
-- **Ejecución del lado del cliente**. Normalmente se refiere al explorador web (chrome, firefox, edge, safari), el cual puede interpretar las siguientes tecnologías:
-
-    - **HTML.** Es un esquema estático que define como se acomodan los elementos en una página web. Puede ser modificado usando javascript, volviendo cualquier aplicación web interactiva.
-
-    - **CSS.** Las hojas de estilo en cascada (Cascading Style Sheets) son un esquema utilizado para describir la presentación de los elementos en una página web, si HTML define como se acomodarán estos elementos dentro de la aplicación, CSS define cuál será su estilo y presentación al usuario final. 
-    
-    - **JS.** Es un lenguaje de programación ligero, interpretado, basado en prototipos y orientado a objetos. Provee los métodos necesarios que hacen la web interactiva.
-
-- **Ejecución del lado del servidor.** Proceso que escucha peticiones en sus endpoints (recursos) definidos en la API (Application Programming Interface), que expone esos recursos a la web. 
-
-    Así mismo es el encargado principal del proceso de los datos y de generar la información de un sistema con base en las reglas de negocio del problema que se quiere solucionar. 
-
-    La implementación de los procesos decisivos y más importantes de un sistema se realiza en el backend. 
-
-    Por ejemplo, las transacciones seguras de un proceso de pago en un e-commerce, deben realizarse del lado del servidor, normalmente estos procesos manejan tokens de acceso y claves, que si se filtran al frontend pueden implicar un riesgo de seguridad.
-
-    Las tecnologías de backend que se usan son las siguientes:
-
-    - **NodeJS.** Es un motor de ejecución de código Javascript del lado del servidor, esto quiere decir que permite programar sistemas con el mismo tipo de código con el que se programa el frontend, disminuyendo la curva de aprendizaje y haciendo el desarrollo más ágil. NodeJS extiende la funcionalidad de Javascript proveyendo mecanismos de acceso que no se tienen en el frontend, como el acceso al sistema de archivos o a bases de datos.
-
-    - **Express.** Es un servidor web desarrollado en Javascript, que se integra como un módulo en NodeJS y que permite la definición de endpoints, rutas y middlewares de tal manera que se pueda crear una API Rest rápidamente.
-
-    - **Mongoose.** Es un ORM (Object-Relational Mapping) que permite el mapeo de modelos de un esquema de MongoDB. Por ejemplo, un modelo de una entidad usuario, que es una representación esquematizada de todos los datos almacenados en MongoDB de un documento de un usuario. Así mismo da acceso a la base de datos y maneja las conexiones a la misma.
-
-    - **MongoDB.** Es la base de datos en sí, donde se almacena toda la información del sistema en forma de un esquema de documentos. 
 
 # Breve Historia de la World Wide Web
 
@@ -328,6 +285,6 @@ Puedes descargar la primera parte de la infografía en el siguiente enlace [Info
 
 Puedes descargar la segunda parte de la infografía en el siguiente enlace [Infografía WWW 2da parte¨](https://github.com/U-Camp/BOOT-M0/blob/main/infografias/Semana_0_Infograf%C3%ADa_3_C.pdf)
 
->#### Con esta información has finalizado el módulo 0, te invito a continuar con el Módulo 1 Semana 1. Recuerda para aclarar cualquier duda puedes escribirle a tus coaches desde la pestaña publicaciones en Microsoft Teams.
+>#### Con esta información has completado parte de los recursos que tenemos para ti; te invito a continuar con el contenido del Módulo 1, ya que en la plataforma se encuentran algunos videos que refuerzan un poco lo comentado en esta parte. Recuerda, para aclarar cualquier duda puedes escribirle a tu coache o tutor desde los canales dispuestos para esto en Microsoft Teams.
 >:smiley:
 
