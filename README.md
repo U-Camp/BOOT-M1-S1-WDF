@@ -283,7 +283,7 @@ Este concepto de programación es el más usado actualmente para desarrollar cua
 
 Puedes descargar la primera parte de la infografía en el siguiente enlace [Infografía WWW 1era parte](https://github.com/U-Camp/BOOT-M1S1-WDF/blob/main/infografias/Semana_0_Infograf%C3%ADa_2_C.pdf)
 
-Puedes descargar la segunda parte de la infografía en el siguiente enlace [Infografía WWW 2da parte¨](https://github.com/U-Camp/BOOT-M0/blob/main/infografias/Semana_0_Infograf%C3%ADa_3_C.pdf)
+Puedes descargar la segunda parte de la infografía en el siguiente enlace [Infografía WWW 2da parte¨](https://github.com/U-Camp/BOOT-M1S1-WDF/blob/main/infografias/Semana_0_Infograf%C3%ADa_3_C.pdf)
 
 >#### Con esta información has completado parte de los recursos que tenemos para ti; te invito a continuar con el contenido del Módulo 1, ya que en la plataforma se encuentran algunos videos que refuerzan un poco lo comentado en esta parte. Recuerda, para aclarar cualquier duda puedes escribirle a tu coache o tutor desde los canales dispuestos para esto en Microsoft Teams.
 >:smiley:
