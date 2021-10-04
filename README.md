@@ -6,11 +6,11 @@
 
 # ÍNDICE
 
-- [Conceptos Generales del Desarrollo de Software](https://github.com/U-Camp/BOOT-M0/blob/main/README.md#conceptos-generales-del-desarrollo-de-software)
-    - [Lenguajes de Programación](https://github.com/U-Camp/BOOT-M0/blob/main/README.md#lenguajes-de-programaci%C3%B3n)
-    - [Paradigmas de Programación](https://github.com/U-Camp/BOOT-M0/blob/main/README.md#paradigmas-de-programaci%C3%B3n)
+- [Conceptos Generales del Desarrollo de Software](https://github.com/U-Camp/BOOT-M1S1-WDF/blob/main/README.md#conceptos-generales-del-desarrollo-de-software)
+    - [Lenguajes de Programación](https://github.com/U-Camp/BOOT-M1S1-WDF/blob/main/README.md#lenguajes-de-programaci%C3%B3n)
+    - [Paradigmas de Programación](https://github.com/U-Camp/BOOT-M1S1-WDF/blob/main/README.md#paradigmas-de-programaci%C3%B3n)
 
-- [Breve Historia de la World Wide Web](https://github.com/U-Camp/BOOT-M0/blob/main/README.md#breve-historia-de-la-world-wide-web)
+- [Breve Historia de la World Wide Web](https://github.com/U-Camp/BOOT-M1S1-WDF/blob/main/README.md#breve-historia-de-la-world-wide-web)
 
 # Conceptos Generales del Desarrollo de Software
 
@@ -185,7 +185,7 @@ return b;
 
 // Así mismo es pura, siempre que reciba 2 como parámetro
 
-console.log(funcionPuraEInmutable(2)); // Imprime `3` // El prototipo de un arreglo en javascript
+console.log(funcionPuraEInmutable(2)); // Imprime `3` // El prototipo de un arreglo en JavaScript
 
 // tiene métodos de que hacen uso de funciones de orden superior
 
@@ -265,7 +265,7 @@ Este concepto de programación es el más usado actualmente para desarrollar cua
 
 **1997:** Nace Google.
 
-**1998 - 2001:** Se adaptan los lenguajes de programación para ser usados del lado del servidor (Perl, Python y Ruby) o se crean nuevos lenguajes como PHP y haciendo uso de las tecnologías existentes (HTML, CSS, Flash y Javascript) la web se vuelve más interactiva y atractiva para los usuarios. El internet es más accesible y barato.
+**1998 - 2001:** Se adaptan los lenguajes de programación para ser usados del lado del servidor (Perl, Python y Ruby) o se crean nuevos lenguajes como PHP y haciendo uso de las tecnologías existentes (HTML, CSS, Flash y JavaScript) la web se vuelve más interactiva y atractiva para los usuarios. El internet es más accesible y barato.
 
 **2002 - Actualidad:** Se desarrolla de manera orgánica la Web 2.0, la cual es una evolución de las primeras páginas web. Boom de las páginas web y la burbuja de las .com explota. Surge la web social, páginas como MySpace, Facebook, YouTube se vuelven imprescindibles. El internet es ampliamente usado y asequible para la mayoría.
 
@@ -273,7 +273,7 @@ Este concepto de programación es el más usado actualmente para desarrollar cua
 
 **2009:** Se publica MongoDB, un motor de base de datos NoSQL que surge como alternativa a las bases de datos relacionales, con el cual se intenta flexibilizar el guardado y manejo de grandes cantidades de información.
 
-**2010:** Nace NodeJS, motor de tiempo de ejecución de javascript del lado del servidor.
+**2010:** Nace NodeJS, motor de tiempo de ejecución de JavaScript del lado del servidor.
 
 **2013:** Se desarrolla y publica la primera versión de ReactJS, librería de código abierto para crear interfaces de usuario en JavaScript, creado por un equipo de desarrollo de Facebook.
 
