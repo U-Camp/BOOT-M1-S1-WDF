@@ -1,6 +1,6 @@
 ![Banner](imagenes/banner.png)
 
-# M0S0: Fundamentos de Programación y Algoritmia
+# M1S2: Fundamentos de Programación y Algoritmia
 
 >#### Hola te doy la bienvenida, es un gusto tenerte aquí; en esta sesión, comenzaremos sobre los fundamentos sobre desarrollo de Software, lenguajes de programación y algoritmia básica.
 
