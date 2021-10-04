@@ -281,7 +281,7 @@ Este concepto de programación es el más usado actualmente para desarrollar cua
 
 >#### A continuación, te invito a consultar y descargar dos infografías que resumen un poco la historia de la WWW.
 
-Puedes descargar la primera parte de la infografía en el siguiente enlace [Infografía WWW 1era parte](https://github.com/U-Camp/BOOT-M0/blob/main/infografias/Semana_0_Infograf%C3%ADa_2_C.pdf)
+Puedes descargar la primera parte de la infografía en el siguiente enlace [Infografía WWW 1era parte](https://github.com/U-Camp/BOOT-M1S1-WDF/blob/main/infografias/Semana_0_Infograf%C3%ADa_2_C.pdf)
 
 Puedes descargar la segunda parte de la infografía en el siguiente enlace [Infografía WWW 2da parte¨](https://github.com/U-Camp/BOOT-M0/blob/main/infografias/Semana_0_Infograf%C3%ADa_3_C.pdf)
 
