@@ -1,6 +1,6 @@
 ![Banner](imagenes/banner.png)
 
-# M1S2: Conceptos Generales de Programación.
+# M1S1: Conceptos Generales de Programación.
 
 >#### Hola te doy la bienvenida, es un gusto tenerte aquí; en esta sesión, estaremos hablando sobre lenguajes de programación y algoritmia básica, todo esto con el fin de contextualizar un poco lo relacionado al mundo del Desarrollo Web.
 
