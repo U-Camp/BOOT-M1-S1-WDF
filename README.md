@@ -7,10 +7,10 @@
 # ÍNDICE
 
 - [Conceptos Generales del Desarrollo de Software](https://github.com/U-Camp/BOOT-M1S1-WDF/blob/main/README.md#conceptos-generales-del-desarrollo-de-software)
-- [Lenguajes de Programación](https://github.com/U-Camp/BOOT-M1S1-WDF/blob/main/README.md#lenguajes-de-programaci%C3%B3n)
-- [Paradigmas de Programación](https://github.com/U-Camp/BOOT-M1S1-WDF/blob/main/README.md#paradigmas-de-programaci%C3%B3n)
-- [Frontend Development](https://github.com/U-Camp/BOOT-M1S1-WDF/blob/main/README.md#frontend-development)
-- [Breve Historia de la World Wide Web](https://github.com/U-Camp/BOOT-M1S1-WDF/blob/main/README.md#breve-historia-de-la-world-wide-web)
+    - [Lenguajes de Programación](https://github.com/U-Camp/BOOT-M1S1-WDF/blob/main/README.md#lenguajes-de-programaci%C3%B3n)
+    - [Paradigmas de Programación](https://github.com/U-Camp/BOOT-M1S1-WDF/blob/main/README.md#paradigmas-de-programaci%C3%B3n)
+    - [Frontend Development](https://github.com/U-Camp/BOOT-M1S1-WDF/blob/main/README.md#frontend-development)
+    - [Breve Historia de la World Wide Web](https://github.com/U-Camp/BOOT-M1S1-WDF/blob/main/README.md#breve-historia-de-la-world-wide-web)
 
 # Conceptos Generales del Desarrollo de Software
 
