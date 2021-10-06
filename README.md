@@ -7,9 +7,9 @@
 # ÍNDICE
 
 - [Conceptos Generales del Desarrollo de Software](https://github.com/U-Camp/BOOT-M1S1-WDF/blob/main/README.md#conceptos-generales-del-desarrollo-de-software)
-    - [Lenguajes de Programación](https://github.com/U-Camp/BOOT-M1S1-WDF/blob/main/README.md#lenguajes-de-programaci%C3%B3n)
-    - [Paradigmas de Programación](https://github.com/U-Camp/BOOT-M1S1-WDF/blob/main/README.md#paradigmas-de-programaci%C3%B3n)
-
+- [Lenguajes de Programación](https://github.com/U-Camp/BOOT-M1S1-WDF/blob/main/README.md#lenguajes-de-programaci%C3%B3n)
+- [Paradigmas de Programación](https://github.com/U-Camp/BOOT-M1S1-WDF/blob/main/README.md#paradigmas-de-programaci%C3%B3n)
+- [Frontend Development](https://github.com/U-Camp/BOOT-M1S1-WDF/blob/main/README.md#frontend-development)
 - [Breve Historia de la World Wide Web](https://github.com/U-Camp/BOOT-M1S1-WDF/blob/main/README.md#breve-historia-de-la-world-wide-web)
 
 # Conceptos Generales del Desarrollo de Software
@@ -88,7 +88,7 @@ función validar_lámpara {
 
 Si un algoritmo define cómo se solucionará un problema aún haría falta implementar esa solución, para eso los lenguajes de programación ofrecen sus palabras clave y sentencias, pero el código se tiene que acomodar de manera uniforme y estructurada, de tal manera que a la acción de escribir y estructurar el código de otra manera es lo que se llama paradigma de programación.
 
-# Paradigmas de programación
+## Paradigmas de programación
 
 Así como existen diferentes tipos de lenguajes de programación también hay distintos paradigmas de programación los cuales, como ya se mencionó, definen cómo se escribe y estructura el código; algunos paradigmas que se usarán durante el curso son los siguientes:
 
@@ -238,8 +238,9 @@ Este concepto de programación es el más usado actualmente para desarrollar cua
 
 - **Comportamiento**: Son los métodos o acciones que puede realizar un objeto determinado y dependen del tipo, por ejemplo, el gato no habla, pero puede maullar, si en lugar de un gato el objeto fuera un ave quizá podría volar.
 
+## Frontend Development
 
-# Breve Historia de la World Wide Web
+## Breve Historia de la World Wide Web
 
 **1969:** El Departamento de Defensa de los Estados Unidos desarrolla una red que conectaba varias universidades californianas, llamada ARPANET.
 
