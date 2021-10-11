@@ -238,7 +238,42 @@ Este concepto de programación es el más usado actualmente para desarrollar cua
 
 - **Comportamiento**: Son los métodos o acciones que puede realizar un objeto determinado y dependen del tipo, por ejemplo, el gato no habla, pero puede maullar, si en lugar de un gato el objeto fuera un ave quizá podría volar.
 
+
+
 ## Frontend Development
+
+Quizá te cuestiones qué es front-end development y qué es lo que hace alguien que se dedica a esta área. A continuación, te resolvemos esa duda.
+
+El desarrollador frontend escribe código para que la interfaz de usuario de un sitio web o aplicación funcione.
+
+El desarrollo front-end (front-end development), también conocido como desarrollo del lado del cliente, es la práctica de producir HTML, CSS y JavaScript para un sitio web o aplicación web para que un usuario pueda ver e interactuar con ellos directamente. El reto asociado al desarrollo front-end es que las herramientas y técnicas utilizadas para crear el front-end de un sitio web cambian constantemente, por lo que el desarrollador debe estar constantemente al tanto de cómo evoluciona el campo.
+
+En definitiva, el objetivo de un desarrollador front-end es garantizar que los visitantes tengan una experiencia fluida al utilizar un sitio web o una aplicación: debe ser fácil de leer, digerir y manejar. Por supuesto, dado que utilizamos una gran variedad de dispositivos (cada vez más numerosos), los desarrolladores front-end deben estar al día de las innovaciones y asegurarse de que su trabajo trasciende los dispositivos. Además de los dispositivos, los sitios y las aplicaciones deben cargarse correctamente en diferentes navegadores y sistemas operativos.
+
+En un artículo para Medium, el desarrollador frontend Oscar Godson explicó un día de su vida:
+
+*"Me dirijo al trabajo, conecto mi portátil a mi monitor externo, lleno un vaso de agua y abro Chrome, Twitter para Mac, Textual (IRC) y me conecto a la VPN", escribió. "Echo un vistazo a una docena de tuits y luego voy a GitHub y a nuestra aplicación privada GitHub Enterprise. GitHub nos permite compartir nuestro código entre nosotros y proporciona un lugar para hacer un seguimiento de los errores. Leo todos los tickets de error, pull requests (una forma de enviar cambios a alguien sin guardarlos en tu base de código principal. Permite que alguien revise tus cambios y si se ven bien se incluyan en la base de código principal), y los comentarios sobre los cambios de código... Una vez que he terminado de leer todo eso, configuro mi entorno de desarrollo. Abro Vim y arranco nuestra aplicación Ruby".*
+
+*Pero no todos los días son "días de código".*
+
+*"Mucha gente va a muchas conferencias", explica Godson. "Cosas como NodeConf, Fluent, JSConf, OSCON y otras son realmente populares y puedes conocer a otros programadores. También hay reuniones locales para todo tipo de cosas. Todo, desde el front-end general o cosas específicas como jQuery hasta la construcción y el control de robots. Siempre hay formas de aprender cosas nuevas de gente nueva y de todo tipo. Esto es bastante impresionante y algo que muchos otros campos profesionales no tienen".*
+
+### ¿Cómo se llega a ser desarrollador de frontend?
+Los desarrolladores de frontend necesitan poseer una gran cantidad de habilidades técnicas para poder realizar bien su trabajo y debe tener al menos conocimientos de HTML, CSS y JavaScript. A continuación te describimos de qué va cada uno (por cierto, lo que leerás enseguida es un spoiler a lo que verás en este bootcamp).
+
+**JavaScript:** Con sus frameworks y bibliotecas, es el núcleo del desarrollo front-end.
+
+**HTML5:** El HTML dicta la organización y el contenido de un sitio, dejando de lado toda interacción. Los elementos HTML pueden anotar los pies de página, las cabeceras, cómo se muestra el texto, cómo aparecen los medios y las imágenes, y mucho más.
+
+**CSS3:** El último estándar para las hojas de estilo en cascada (CSS), CSS3 está dividido en módulos y comprende el código para cada elemento gráfico -desde los fondos hasta las fuentes- que conforman el aspecto de un sitio web.
+
+**GIT:** También deben conocer el software de control de versiones, como el incondicional del código abierto Git, herramienta que utilizarás para hacer un seguimiento de los cambios, de modo que pueda volver a una versión anterior de su trabajo y averiguar lo que salió mal sin tener que desmontarlo todo.
+
+Deben tener amplios conocimientos en la creación de diseños responsivos, pruebas y depuración, así como en el uso, construcción y automatización de herramientas de navegación.
+
+Esperamos que este contexto te sirva, cabe mencionar que la demanda laboral de este perfil así como los salarios son bastante buenos tanto a nivel nacional como internacional. Por lo tanto, podemos asegurar que has tomado una de las mejores decisiones de tu vida al elegir formarte como desarrollador(a) web. Ya verás que no te arrepentirás.
+
+
 
 ## Breve Historia de la World Wide Web
 
