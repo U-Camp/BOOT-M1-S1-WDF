@@ -244,9 +244,7 @@ Este concepto de programación es el más usado actualmente para desarrollar cua
 
 Quizá te cuestiones qué es front-end development y qué es lo que hace alguien que se dedica a esta área. A continuación, te resolvemos esa duda.
 
-El desarrollador frontend escribe código para que la interfaz de usuario de un sitio web o aplicación funcione.
-
-El desarrollo front-end (front-end development), también conocido como desarrollo del lado del cliente, es la práctica de producir HTML, CSS y JavaScript para un sitio web o aplicación web para que un usuario pueda ver e interactuar con ellos directamente. El reto asociado al desarrollo front-end es que las herramientas y técnicas utilizadas para crear el front-end de un sitio web cambian constantemente, por lo que el desarrollador debe estar constantemente al tanto de cómo evoluciona el campo.
+El desarrollo front-end (front-end development), también conocido como desarrollo del lado del cliente, es la práctica de producir HTML, CSS y JavaScript para un sitio web o aplicación web para que un usuario pueda ver e interactuar con ellos directamente. El reto asociado al desarrollo front-end es que las herramientas y técnicas utilizadas para crear el front-end de un sitio web cambian constantemente, por lo que el desarrollador debe estar constantemente al tanto de cómo evoluciona el campo. El desarrollador frontend escribe código para que la interfaz de usuario de un sitio web o aplicación funcione.
 
 En definitiva, el objetivo de un desarrollador front-end es garantizar que los visitantes tengan una experiencia fluida al utilizar un sitio web o una aplicación: debe ser fácil de leer, digerir y manejar. Por supuesto, dado que utilizamos una gran variedad de dispositivos (cada vez más numerosos), los desarrolladores front-end deben estar al día de las innovaciones y asegurarse de que su trabajo trasciende los dispositivos. Además de los dispositivos, los sitios y las aplicaciones deben cargarse correctamente en diferentes navegadores y sistemas operativos.
 
